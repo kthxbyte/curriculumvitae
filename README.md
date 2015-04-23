@@ -12,6 +12,7 @@ Desarrollador a tiempo parcial. Altamente independiente, pero siempre disponible
 ###[Eye3](http://co-creation.cl/eye3/)
 ######Startup dedicada a entregar soluciones tecnológicas e industriales con foco en la detección, monitoreo y control por proximidad o cercanía para mejorar la seguridad y hacer más eficientes los procesos industriales. Cuenta con el respaldo de la aceleradora e incubadora de negocios [3ie](http://www.3ie.cl).
 **Período Diciembre 2014 - Presente**: Desarrollo móvil con Android Studio y de sistemas embebidos con Raspberry Pi
+
 Participa del diseño y programación de un datalogger (Raspberry Pi) y aplicación Android para:
 * Captura de datos en terreno y creación de reportes de la operación 
 * Visualización en tiempo real de los datos capturados
@@ -32,6 +33,7 @@ Participa del diseño y programación de un datalogger (Raspberry Pi) y aplicaci
 ######Uno de los principales proveedores de software en la nube de Amazon, gracias a las populares Amazon Machine Images y servicio de cloud hosting. Sus stacks de software Bitnami (creadas con BitRock InstallBuilder) se encuentran desplegadas en millones de máquinas, tanto físicas como virtuales. Su diversa cartera de clientes cubre 30 países y entre ellos se encuentran compañías del Fortune 100, startups, desarrolladores de videojuegos, universidades y la milicia. 
 
 **Período Enero 2007 - Febrero 2008**: Desarrollo multiplataforma con Tcl-Tk
+
 Ingresa al equipo existente para participar del diseño, programación y soporte técnico de la herramienta BitRock InstallBuilder. En el curso del año se agrega funciones adicionales en la herramienta y se realiza mantenimiento correctivo de funciones existentes.
 
 **Competencias relevantes aplicadas en el proyecto:** 
