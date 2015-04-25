@@ -16,11 +16,11 @@ Desarrollador a tiempo parcial. Altamente independiente, pero siempre disponible
 Participa del diseño y programación de un datalogger (Raspberry Pi) y aplicación Android para:
 * Captura de datos en terreno y creación de reportes de la operación 
 * Visualización en tiempo real de los datos capturados
-* Retransmisión de los reportes creados( Raspberry Pi --> Android --> Web ), de manera automatizada( Raspberry Pi --> Android ) y semiautomatizada( Android --> Web ), implementando cliente HTTP para subida y descarga.
+* Retransmisión de los reportes creados desde el sistema embebido hacia Internet
 
 **Competencias relevantes aplicadas en el proyecto:** 
 * Desarrollo Java con Android Studio
-* Automatización de servicios en Archlinux-ARM (Raspberry Pi)
+* Automatización de servicios en Archlinux-ARM
 * Desarrollo de datalogger en PHP
 * Manejo de bases de datos relacionales con MySQL
 * Implementación Java de cliente HTTP para upload/download
