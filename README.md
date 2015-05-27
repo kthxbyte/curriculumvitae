@@ -46,7 +46,7 @@ Ingresa al equipo existente para participar del diseño, programación y soporte
 ##Educación
 ####[Pontificia Universidad Católica de Valparaíso](http://www.inf.ucv.cl/): Ingeniería de Ejecución en Informática
 * Titulado en Enero de 2008, con el proyecto "Emuladores - Implementando en software una arquitectura de computadores"
-* El emulador de CHIP-8 implementado en el proyecto fue adoptado como herramienta de apoyo en la asignatura INF-150 "Informática II", dictada por el profesor Iván Mercado Bermúdez
+* El emulador de CHIP-8 implementado en el proyecto fue adoptado como herramienta de apoyo en la asignatura INF-150 "Informática II", dictada por el profesor [Iván Mercado Bermúdez](http://www.inf.ucv.cl/academicos/ivan-mercado-bermudez/).
 
 ##Habilidades adicionales
 * Manejo fluido de idioma Inglés, evaluado con puntuación 920 (de un máximo de 990) como "Nivel Profesional General" en examen TOEIC - Registro Nacional de Inglés CORFO 2007.
